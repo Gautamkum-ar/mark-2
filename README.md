@@ -1,3 +1,3 @@
 # Varanasi Quiz CLI
 
-Project URL: https://replit.com/@Gautamkum-ar/ClIquiz-varanasi?v=1
+Project https://replit.com/@Gautamkum-ar/ClIquiz-varanasi-1?v=1
